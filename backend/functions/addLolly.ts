@@ -17,3 +17,5 @@ async function addLolly(lolly: Lolly) {
 }
 
 export default addLolly;
+
+// ok
